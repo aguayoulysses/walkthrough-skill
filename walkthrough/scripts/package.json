@@ -1,0 +1,8 @@
+{
+  "name": "walkthrough-skill",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer-core": "^25.12.0"
+  }
+}
